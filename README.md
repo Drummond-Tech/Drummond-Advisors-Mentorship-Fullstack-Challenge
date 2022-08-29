@@ -8,6 +8,10 @@ Front-End: React _*Preferível o uso de tailwind_
 Back-End: Node + Typescript
 Banco de Dados: NoSQL (Firestore ou Mongo) *Preferível o uso do Firebase
 
+## Instruções:
+
+Crie um repositório público, inicie um projeto React (npx create-react-app), realize o desafio com os requisitos abaixo. Faça o deploy e envie para tech@drummondcpallc.com os links do repositório e deploy.
+
 ### Níveis:
 `1 - CRUD simples e Layout responsivo` <br />
 `2 - Cadastro e login de usuários e conexão com banco de dados` <br />
