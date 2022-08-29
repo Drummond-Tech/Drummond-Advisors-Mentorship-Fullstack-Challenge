@@ -9,15 +9,15 @@ Back-End: Node + Typescript
 Banco de Dados: NoSQL (Firestore ou Mongo) *Preferível o uso do Firebase
 
 ### Níveis:
-`1 - CRUD simples e Layout responsivo`
-`2 - Cadastro e login de usuários e conexão com banco de dados`
+`1 - CRUD simples e Layout responsivo` <br />
+`2 - Cadastro e login de usuários e conexão com banco de dados` <br />
 `3 - Testes automatizados e CI/CD`
 
 ### Objetivo:
 Demonstrar conhecimentos em desenvolvimento FullStack, criando um banco de dados, criando e consumindo uma API e desenvolvimento do Front-End da aplicação.
 
 ### Requisitos:
-**Nível 1:** Eliminatório (caso não consiga finalizar)
+**`Nível 1:`** Eliminatório (caso não consiga finalizar)
 
  - Realizar o pull do projeto no GIT
  - O usuário deverá ser capaz de realizar o CRUD de tarefas pelo Front-End da aplicação.
@@ -28,7 +28,7 @@ Demonstrar conhecimentos em desenvolvimento FullStack, criando um banco de dados
 - Criação de telas responsivas. (O layout não deverá quebrar quando visto em dispositivos móveis).
 - Subir o projeto rodando no GitHub Pages ou Vercel.
 
-**Nível 2:** Realizar cadastro de um novo usuário (Firebase) - Sign Up
+**`Nível 2:`** Realizar cadastro de um novo usuário (Firebase) - Sign Up
 
 - O usuário deverá ser capaz de cadastrar um novo usuário utilizando e-mail e senha (ou outra forma de login), e tal cadastro deverá ser salvo no banco de dados.
     - Caso não seja possível cadastrar um novo usuário, a aplicação deverá retornar uma tratativa.
@@ -41,7 +41,7 @@ Demonstrar conhecimentos em desenvolvimento FullStack, criando um banco de dados
     - Atualização das informações no banco;
     - Exclusão das informações;
 
-**Nível 3:**
+**`Nível 3:`** Testes e CI/CD
 - Criação de testes para o Back-End
     - Unitários
     - Integração
