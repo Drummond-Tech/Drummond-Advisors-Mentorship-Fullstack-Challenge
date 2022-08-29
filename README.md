@@ -4,14 +4,14 @@
 
 Você deverá desenvolver uma lista de tarefas com todas as operações de CRUD (Create, Read, Update e Delete), utilizando um banco de dados No-SQL, além de desenvolver o Front-End da aplicação utilizando a biblioteca React.
 ### Detalhes: 
-Front-End: React *Preferível o uso de tailwind
+Front-End: React _*Preferível o uso de tailwind_
 Back-End: Node + Typescript
 Banco de Dados: NoSQL (Firestore ou Mongo) *Preferível o uso do Firebase
 
 ### Níveis:
-1 - CRUD simples e Layout responsivo
-2 - Cadastro e login de usuários e conexão com banco de dados
-3 - Testes automatizados e CI/CD
+`1 - CRUD simples e Layout responsivo`
+`2 - Cadastro e login de usuários e conexão com banco de dados`
+`3 - Testes automatizados e CI/CD`
 
 ### Objetivo:
 Demonstrar conhecimentos em desenvolvimento FullStack, criando um banco de dados, criando e consumindo uma API e desenvolvimento do Front-End da aplicação.
@@ -49,6 +49,6 @@ Demonstrar conhecimentos em desenvolvimento FullStack, criando um banco de dados
 
 O layout do Front-End é por sua conta! Liberte sua imaginação e criatividade!
 
-*Os níveis 2 e 3 não são obrigatórios, mas valem pontos de avaliação.
+`Os níveis 2 e 3 não são obrigatórios, mas valem pontos de avaliação.`
 
 Sinta-se a vontade para fazer mais do que os requisitos obrigatórios. Que tal implementar testes, ou até mesmo filtros para as tarefas?
